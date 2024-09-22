@@ -14,9 +14,9 @@ web场景演示：暂无
 
 **宠物互动系统 （展示图片）**
 
-![图片alt](https://share.weiyun.com/ifA4zODY "展示图片")
-![图片alt](https://share.weiyun.com/C29feivi "展示图片")
-![图片alt](https://share.weiyun.com/acMXezBX "展示图片")
+![图片alt](./img/01.jpg "展示图片")
+![图片alt](./img/02.jpg "展示图片")
+![图片alt](./img/03.png "展示图片")
 
 
 
